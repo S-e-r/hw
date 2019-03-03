@@ -69,3 +69,18 @@ main {
   line-height: 1.714;
   text-align: left;
 }
+.button {
+  margin-bottom: 30px;
+}
+.load-btn {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 165px;
+  margin: auto;
+  margin-left: 370px;
+  margin-right: 370px;
+  font-size: 20px;
+  font-family: "PlayfairDisplay";
+  color: rgb(98, 98, 98);
+  line-height: 1.2;
+}
