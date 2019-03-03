@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  width: 900px;
+  margin: auto;
+  padding-top: 77px;
+}
+.List {
+  list-style: none;
+  margin-left: 165px;
+  margin-right: 165px;
+  margin-bottom: 104px;
+}
+.List-item {
+  display: inline-block;
+}
+.List-link {
+  display: block;
+  width: 135px;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  color: #444;
+  font-size: 14px;
+  font-family: "PlayfairDisplay";
+  color: rgb(98, 98, 98);
+  line-height: 1.714;
+}
+.List-link:hover {
+  color: blue;
+}
+main {
+  font-size: 0;
+}
+.box {
+  font-size: 16px;
+  display: inline-block;
+  width: calc(50% - 30px);
+  margin-bottom: 130px;
+}
+.box-mr {
+  margin-right: 60px;
+}
+.box-img {
+  margin-bottom: 32px;
+}
+.box-subtitle {
+  font-size: 14px;
+  font-family: "Ubuntu";
+  color: rgb(180, 173, 158);
+  text-transform: uppercase;
+  line-height: 1.2;
+  margin-bottom: 37px;
+}
+.box-title {
+  font-size: 30px;
+  font-family: "PlayfairDisplay";
+  color: rgb(98, 98, 98);
+  line-height: 1.2;
+  margin-bottom: 45px;
+}
+.text {
+  font-size: 14px;
+  font-family: "PlayfairDisplay";
+  color: rgb(98, 98, 98);
+  line-height: 1.714;
+  text-align: left;
+}
